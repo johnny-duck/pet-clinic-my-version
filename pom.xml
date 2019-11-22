@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>boboc.ionut</groupId>
 	<artifactId>pet-clinic-my-version</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>pet-clinic-my-version</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -39,6 +39,6 @@
 	</build>
 <scm>
 	<developerConnection>scm:git:git@github.com:johnny-duck/pet-clinic-my-version.git</developerConnection>
-	<tag>pet-clinic-my-version-0.0.1</tag>
+	<tag>HEAD</tag>
 </scm>
 </project>
